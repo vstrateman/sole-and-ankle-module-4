@@ -35,7 +35,6 @@ const MainHeader = styled.div`
 
 const Nav = styled.nav`
   display: flex;
-  align-self: center;
   gap: 48px;
   margin-left: 200px;
   align-items: center;
